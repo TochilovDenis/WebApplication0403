@@ -32,7 +32,7 @@
            padding: 5px 15px;
            color: #333;
            text-decoration: none;">
-            Открыть цитаты 4 в новом окне
+            Открыть задание 4 выбор категории цитаты
         </a>
         <br>
         <br>        
@@ -41,7 +41,7 @@
            padding: 5px 15px;
            color: #333;
            text-decoration: none;">
-            Открыть цитаты 5 в новом окне
+            Открыть задание 5 поиск цитат
         </a>
         <br>
         <br>        
@@ -50,9 +50,17 @@
            padding: 5px 15px;
            color: #333;
            text-decoration: none;">
-            Открыть цитаты 6 в новом окне
+            Открыть задание 6 добавление цитаты
         </a>
-
+        <br>
+        <br> 
+        <a href="includes/quotes7.jsp" target="_blank"
+           style="border: 1px solid #333;
+           padding: 5px 15px;
+           color: #333;
+           text-decoration: none;">
+            Открыть задание 7 редактирование цитаты
+        </a>
 
         <jsp:include page="includes/footer.jsp" />
     </body>
